@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## This function is returning a list of function for getting and setting values to the special Matrix
 
 makeCacheMatrix <- function(x = matrix()) {
